@@ -1,0 +1,6 @@
+.film-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 28rem));
+    justify-content: center;
+}
+
